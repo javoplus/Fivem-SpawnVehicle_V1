@@ -6,4 +6,4 @@ This script is an example that shows how to produce a vehicle (car, motorcycle, 
 2. Add `start Fivem-SpawnVehicle_V1` to your server.cfg
 
 ## Control
-Press `M` to spawn a vehicle
+* Press `M` to spawn a vehicle
